@@ -15,6 +15,6 @@ This program offers a straightforward way to block access to specific websites o
 
 <p align="center">
     <a href="https://100xdevs.com/">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hideipvpn.com%2Fvpn%2Fisps-blocking-websites%2F&psig=AOvVaw1dGUn2WAQ40oTsCAtRI2Po&ust=1702800261920000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiBjL2_k4MDFQAAAAAdAAAAABAI" alt="Banner" style="width: 500px; margin-left: 100px; border-radius: 10px;">
+      <img src="https://www.hideipvpn.com/wp-content/uploads/2022/03/isp-blocking-websites.jpg" alt="Banner" style="width: 500px; margin-left: 100px; border-radius: 10px;">
     </a>
 </p>
