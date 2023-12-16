@@ -11,3 +11,10 @@ Parses the input and updates the system's hosts file to block specified websites
 Informs the user about the blocking status through a result label.
 Supports resizable window dimensions for better user experience.
 This program offers a straightforward way to block access to specific websites on a local system and can be a useful tool for managing internet usage.
+
+
+<p align="center">
+    <a href="https://100xdevs.com/">
+      <img src="https://d33g7sdvsfd029.cloudfront.net/teachcode/admin/COURSE/cover/1699610005757WhatsApp-Image-2023-11-10-at-3.16.18-PM.jpeg" alt="Banner" style="width: 500px; margin-left: 100px; border-radius: 10px;">
+    </a>
+</p>
