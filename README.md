@@ -15,6 +15,6 @@ This program offers a straightforward way to block access to specific websites o
 
 <p align="center">
     <a href="https://100xdevs.com/">
-      <img src="https://d33g7sdvsfd029.cloudfront.net/teachcode/admin/COURSE/cover/1699610005757WhatsApp-Image-2023-11-10-at-3.16.18-PM.jpeg" alt="Banner" style="width: 500px; margin-left: 100px; border-radius: 10px;">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hideipvpn.com%2Fvpn%2Fisps-blocking-websites%2F&psig=AOvVaw1dGUn2WAQ40oTsCAtRI2Po&ust=1702800261920000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiBjL2_k4MDFQAAAAAdAAAAABAI" alt="Banner" style="width: 500px; margin-left: 100px; border-radius: 10px;">
     </a>
 </p>
